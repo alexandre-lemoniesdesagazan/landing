@@ -1,0 +1,20 @@
+.btn-black {
+	background-color: white; 
+	padding: 15px 20px;
+	border-radius: 9px; 
+	color: black; 
+	font-weight: bold;
+	font-family: "Roboto", sans-serif;
+}
+
+
+.btn-blue {
+	background-color: black; 
+	padding: 15px 20px;
+	border-radius: 9px; 
+	color: white; 
+	font-weight: bold;
+	font-family: "Roboto", sans-serif;
+}
+
+
